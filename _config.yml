@@ -1,20 +1,23 @@
 title: The Mud Road
+
 description: > # this means to ignore newlines until "baseurl:"
   May the road rise up to meet you.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+#site-twitter: #if your site has a twitter account, enter it here
+site-mastadon: https://mstdn.social/@fredb
 
 # Author Settings
 author: Fred Biggar # add your name
 author-img: snuffPuppet.jpg # add your photo
 about-author: I write, paint and make pictures among other things. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github:  # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: mudroad@protonmai.com
+# social-twitter: # add your Twitter handle
+# social-facebook: # add your Facebook handle
+social-mastadon: fredb@mstdn.social
+social-github:  themudroad.github.io # add your Github handle
+social-linkedin: www.linkedin.com/in/fred-biggar-9b045a299 # add your Linkedin handle
+social-email: mudroad@protonmail.com
 
 # Disqus
 discus-identifier: themudroad # add your discus identifier
