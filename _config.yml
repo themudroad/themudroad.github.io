@@ -1,4 +1,4 @@
-title: The Mud Road
+title: The Mud Road XXXXXX
 
 description: > # this means to ignore newlines until "baseurl:"
   May the road rise up to meet you.
@@ -14,7 +14,7 @@ author-img: snuffPuppet.jpg # add your photo
 about-author: I write, paint and make pictures among other things. # add description
 # social-twitter: # add your Twitter handle
 # social-facebook: # add your Facebook handle
-social-mastadon: fredb@mstdn.social
+social-mastodon: fredb@mstdn.social
 social-github:  themudroad.github.io # add your Github handle
 social-linkedin: www.linkedin.com/in/fred-biggar-9b045a299 # add your Linkedin handle
 social-email: mudroad@protonmail.com
