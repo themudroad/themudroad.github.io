@@ -558,12 +558,9 @@
 .fa-twitter-square:before {
   content: "\f081";
 }
-
 .fa-mastodon-square:before {
   content: "\f4f6";
 }
-
-
 .fa-facebook-square:before {
   content: "\f082";
 }
@@ -634,11 +631,9 @@
 .fa-twitter:before {
   content: "\f099";
 }
-
 .fa-mastodon:before {
-  content: "\f099";
+  content: "\f095"; 
 }
-
 .fa-facebook-f:before,
 .fa-facebook:before {
   content: "\f09a";
