@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Garden
-date: 2024-21-11 00:00:00 +0300
+date: 2024-11-211 00:00:00 +0300
 description: What's going on out there? 
-img: theGardeneBooCover # Add image post (optional)
+img: theGardeneBookCover # Add image post (optional)
 tags: [theGarden, Writing] # add tag
 ---
 
