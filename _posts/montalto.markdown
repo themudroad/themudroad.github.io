@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Montalto delle Marche
-date: 2024-11-21 13:32:20 +0300
+date: 2024-11-19 13:32:20 +0300
 description: B&W photograph of rolling hills and a calico patchwork of crops
 img: goldenGateNationalPark.png # Ad	 image post (optional)
 fig-caption: B&W photograph of rolling hills and a calico patchwork of crops # Add figcaption (optional)
