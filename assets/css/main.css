@@ -1139,6 +1139,7 @@ footer .copyright {
 .post .post-thumbnail {
   width: 30%;
   max-width: 100%;
+  height: auto;
   min-height: 11rem;
   -webkit-background-size: cover;
           background-size: cover;
@@ -1244,8 +1245,8 @@ a.newer-posts:hover {
 }
 
 .page-cover-image .page-image {
-  width: 100%;
-  height: 100%;
+  //width: 100%;
+  //height: 100%;
 }
 
 .page-footer {
@@ -1376,7 +1377,9 @@ a.newer-posts:hover {
             flex-direction: column;
   }
   .post .post-thumbnail {
-    width: 100%;
+    
+    height: auto;
+    width: auto;
   }
   .post .post-content {
     width: 100%;
@@ -1467,7 +1470,8 @@ a.newer-posts:hover {
             flex-direction: column;
   }
   .post .post-thumbnail {
-    width: 100%;
+    height: auto;
+    width: auto;
   }
   .post .post-content {
     width: 100%;
