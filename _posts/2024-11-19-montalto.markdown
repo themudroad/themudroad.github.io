@@ -3,7 +3,7 @@ layout: post
 title: Montalto delle Marche
 date: 2024-11-19 13:32:20 +0300
 description: B&W photograph of rolling hills and a calico patchwork of crops
-img: montalto1(B&W).png
+img: montaltoBalcony1.png
 fig-caption: 
 tags: [Italia, Phgotography]
 ---
