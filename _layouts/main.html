@@ -10,18 +10,14 @@ layout: default
       </div>
       <div class="author-name">{{site.author}}</div>
       <p>{{site.about-author}}</p>
+      <a href="https://www.amazon.com/Garden-Fred-M-Biggar/dp/1763681408" target="_blank">
+           Get the Book</a>    
     </div>
   </header> <!-- End Header -->
   <footer>
     <section class="contact">
       <h3 class="contact-title">Contact me</h3>
       <ul>
-         {% if site.social-mastodon %}
-          <li><a href="https://mstdn.social/{{ site.mastodon }}" target="_blank"><img src="/assets/img/masto.svg" width="40" height="40"alt="Mastodon"><i class="fa fa-mastodon" aria-hidden="true"></i></a></li>
-        {% else %}
-          <li><a href="https://mstdn.social/@fredb" target="_blank"><i class="fa fa-mastodon" aria-hidden="true"></i></a></li>
-        {% endif %}
-        
         <!-- End Header Remover twitter and facebook icons
 
         {% if site.social-twitter %}
@@ -37,17 +33,35 @@ layout: default
         {% endif %}
          -->
         {% if site.social-github %}
-          <li class="github"> <a href="http://github.com/{{site.social-github}}" target="_blank"><i class="fa fa-github"></i></a></li>
+          <li class="github"> 
+            <a href="http://github.com/{{site.social-github}}" target="_blank">
+                <i class="fa fa-github">
+                </i>
+            </a>
+          </li>
         {% else %}
           <li class="github"><a href="http://github.com/" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+        {% endif %}      
+        {% if site.social-instagram %}
+          <li class="instagram"> <a href="http://instagram.com/{{site.social-instagram}}" target="_blank"><i class="fa fa-instagram"></i></a></li>
+        {% else %}
+          <li class="instagram"><a href="http://instagram.com/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>2</li>
         {% endif %}
-        
         {% if site.social-linkedin %}
           <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.social-linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
         {% else %}
           <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
         {% endif %}
-        
+        {% if site.social-mastodon %}
+          <li  style="vertical-align:bottom">      
+            <a href="https://mstdn.social/@{{site.social-mastodon}}" target="_blank">
+                <img src="/assets/img/masto.svg" width="20" height="20" alt="Mastodon">
+            </a>
+        </li>
+        {% else %}
+          <li><a href="https://mstdn.social/@fredb" target="_blank"><i class="fa fa-mastodon" aria-hidden="true"></i></a></li>
+        {% endif %}
+         
         {% if site.social-email %}
           <li class="email"><a href="mailto:{{site.social-email}}"><i class="fa fa-envelope-o"></i></a></li>
         {% else %}
@@ -61,5 +75,5 @@ layout: default
   </footer> <!-- End Footer -->
 </aside> <!-- End Sidebar -->
 <div class="content-box clearfix">
-  {{ content }}
+       {{ content }}
 </div>

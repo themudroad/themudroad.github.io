@@ -559,7 +559,7 @@
   content: "\f081";
 }
 .fa-mastodon-square:before {
-  content: "\f4f6";
+  content: "\f777";
 }
 .fa-facebook-square:before {
   content: "\f082";
@@ -632,7 +632,7 @@
   content: "\f099";
 }
 .fa-mastodon:before {
-  content: "\f095"; 
+  content: "\f777"
 }
 .fa-facebook-f:before,
 .fa-facebook:before {
