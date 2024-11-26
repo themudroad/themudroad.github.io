@@ -58,6 +58,11 @@ main {
   display: block;
 }
 
+
+
+
+
+
 /**
  * Add the correct margin in IE 8.
  */
@@ -1255,6 +1260,40 @@ a.newer-posts:hover {
   height: 100%;
 }
 
+/*-- Mastodon Link--*/
+
+        a.mastodon-share {
+            display: inline-block;
+            padding: 1em;        
+            color: #fff;
+            text-decoration: none;
+            margin: 1em 0;
+  background-color: #fafafa;
+  border: 1px solid #ecf0f1;
+  padding: 5px 10px;
+  margin-left: 5px;
+  color: #263959;
+  font-size: 12px;
+  -webkit-transition: background-color .3s;
+  -o-transition: background-color .3s;
+  transition: background-color .3s;
+
+        }
+        a.mastodon-share:hover, a.mastodon-share:focus {
+            background-color: #ecf0f1
+            color: #fff;
+        }
+        button.mastodon-edit {
+            font-family: inherit;
+            font-size: 1.3em;
+            border: none;
+            cursor: pointer;
+            background: transparent;
+            transform: rotate(90deg);
+        }
+/*-- Mastodon Link--*/
+
+
 .page-footer {
   display: -webkit-box;
   display: -webkit-flex;
@@ -1284,8 +1323,7 @@ a.newer-posts:hover {
   border: 1px solid #ecf0f1;
   padding: 5px 10px;
   margin-left: 5px;
-  color: #592626
-  /*color: #263959;*/
+  color: #263959;
   font-size: 12px;
   -webkit-transition: background-color .3s;
   -o-transition: background-color .3s;
