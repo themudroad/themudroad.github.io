@@ -2,9 +2,9 @@
 layout: post
 title: The Garden
 #date: 2024-10-22 01:00:00 +0300
-description: What's going on out there? 
+description: A stick figure stands beneath a giant wilting red square of red. 
 img: theGardeneBookCover.jpg 
-fig-caption: 
+fig-caption: A stick figure stands beneath a giant wilting red square of red.
 tags: [theGarden, writing, Antananarivo, travel] 
 sticky: 1
 
