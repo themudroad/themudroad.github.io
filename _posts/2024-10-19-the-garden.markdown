@@ -17,16 +17,16 @@ Looking to ride out the chaos of the pandemic in more familiar territory, my par
 Back in Melbourne, we were lucky enough to find space with very generous friends. My partner started her new school leadership job online, we were supposed to be moving to Malaysia. She finally got permission to leave Australia and get into Malaysia but my job and the attached visa had dissolved in all the hand-sanitiser and so I was looking at a few more months on the floor.  
 
 When a friend in Madagascar needed an Art and Technology teacher to fill a gap left by a fleeing teacher, I jumped on a plane. Lots of planes actually.
-![Bags line up outside closed airport in Johannesburg for customs check](bagsJoburg.jpg)
+![Bags line up outside closed airport in Johannesburg for customs check](/assets/img/bagsJoburg.jpg)
 
 In Tana, I spent a bit of every day organising my despair into marks and lines: poems, sketches paintings.
-![Drawing of a boat](pages2.jpg) ![Drawing of a flower](pages1.jpg)
+![Drawing of a boat](/assets/img/pages2.jpg) ![Drawing of a flower](/assets/img/pages1.jpg)
 My goal became to fill the mostly empty house I was living in with enough pieces to stage a one person show. 
 
-![The Gallery](theGallery1.jpg)![The Gallery](theGallery2.jpg) 
+![The Gallery](/assets/img/theGallery.jpg)
 
 > Isolating from the world, my partner and ultimately myself, I tried to make some sense of it in this collection of text based drawings/paintings. They seem to me the residue of a thirty-five year search for a place to call home, without ever really finding the right word for it. 
 
 You can get it from various online dealers around the by searching for Fred Biggar The Garden. 
 
-![Back of The Garden by Fred Biggar ](backCoverTheGarden.png)
+![Back of The Garden by Fred Biggar ](/assets/img/backCoverTheGarden.png)
