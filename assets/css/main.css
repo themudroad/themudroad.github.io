@@ -791,14 +791,18 @@ h1 {
 }
 
 img {
-  display: block;
+  
+  max-width: 100%;
+  vertical-align: middle;
+  display: inline-block;
+  
+  /*
+   max-height:600px;
+display: block;
   margin-left: auto;
   margin-right: auto;
-  max-height:600px;
-  object-fit: contain;
-  /*max-width: 50%;
-  vertical-align: right;
-  display: inline-block;*/
+   object-fit: contain;
+  */
 }
 
 img + em {
