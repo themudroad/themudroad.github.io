@@ -22,7 +22,7 @@ When a friend in Madagascar needed an Art and Technology teacher to fill a gap l
 
 In Tana, I spent a bit of every day organising my despair into marks and lines: poems, sketches paintings.
 
-![Drawing of a boat](/assets/img/pages2.jpg) ![Drawing of a flower](/assets/img/pages1.jpg)
+![Drawing of a boat](/assets/img/pages2.jpg)
 
 My goal became to fill the mostly empty house I was living in with enough pieces to stage a one person show. 
 
