@@ -18,6 +18,8 @@ social-github:  themudroad # add your Github handle
 social-linkedin: fred-biggar-9b045a299 # add your Linkedin handle
 social-email: mudroad@protonmail.com
 social-instagram: fredbiggar
+feed:
+  path: feed.xml
 
 # Theme from David Freeman - Flexible Jekyll
 
