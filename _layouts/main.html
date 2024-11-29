@@ -33,6 +33,16 @@ layout: default
           <li><a href="https://facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
         {% endif %}
          -->
+            {% if site.social-mastodon %}
+          <li>      
+            <a href="https://mstdn.social/@{{site.social-mastodon}}" target="_blank">
+                <img style="vertical-align: -20%" src="/assets/img/masto.svg" width="20" height="20" alt="Mastodon">
+            </a>
+        </li>
+        {% else %}
+          <li><a href="https://mstdn.social/@fredb" target="_blank"><i class="fa fa-mastodon" aria-hidden="true"></i></a></li>
+        {% endif %}
+        
         {% if site.social-github %}
           <li class="github"> 
             <a href="http://github.com/{{site.social-github}}" target="_blank">
@@ -48,20 +58,7 @@ layout: default
         {% else %}
           <li class="instagram"><a href="http://instagram.com/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>2</li>
         {% endif %}
-        {% if site.social-linkedin %}
-          <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.social-linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-        {% else %}
-          <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-        {% endif %}
-        {% if site.social-mastodon %}
-          <li>      
-            <a href="https://mstdn.social/@{{site.social-mastodon}}" target="_blank">
-                <img style="vertical-align: -10%" src="/assets/img/masto.svg" width="20" height="20" alt="Mastodon">
-            </a>
-        </li>
-        {% else %}
-          <li><a href="https://mstdn.social/@fredb" target="_blank"><i class="fa fa-mastodon" aria-hidden="true"></i></a></li>
-        {% endif %}
+   
          
         {% if site.social-email %}
           <li class="email"><a href="mailto:{{site.social-email}}"><i class="fa fa-envelope-o"></i></a></li>
@@ -69,6 +66,16 @@ layout: default
           <li class="email"><a href="mailto:example.david@blog.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
         {% endif %}
         <li class="rss"><a href="{{ baseurl }}/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label }}</a></li>
+       
+        <!-- Get rid of linked in
+        {% if site.social-linkedin %}
+          <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.social-linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+        {% else %}
+          <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+        {% endif %}
+        Get rid of linked in -->
+     
+        
   
       </ul>
     </section> <!-- End Section Contact -->
