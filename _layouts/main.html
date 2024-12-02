@@ -14,7 +14,8 @@ layout: default
            <!-- the-garden/-->
            Get the Book</a>    
            
-           	{{site.baseurl}}
+          
+           {{site.url}}           
            
     </div>
   </header> <!-- End Header -->
@@ -68,7 +69,7 @@ layout: default
         {% else %}
           <li class="email"><a href="mailto:example.david@blog.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
         {% endif %}
-        <li class="rss"><a href="{{ baseurl }}/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label }}</a></li>
+        <li class="rss"><a href="{{ url }}/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label }}</a></li>
        
         <!-- Get rid of linked in
         {% if site.social-linkedin %}

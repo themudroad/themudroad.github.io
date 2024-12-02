@@ -2,8 +2,12 @@ title: The Mud Road
 description: > # this means to ignore newlines until "baseurl:"
   May the road rise up to meet you.
 permalink: ':title/'
+
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: http://themudroad.com # the base hostname & protocol for your site, e.g. http://example.com
+
+
 #site-twitter: #if your site has a twitter account, enter it here
 #site-mastodon: https://mstdn.social/@fredb
 
@@ -18,6 +22,9 @@ social-github:  themudroad # add your Github handle
 social-linkedin: fred-biggar-9b045a299 # add your Linkedin handle
 social-email: mudroad@protonmail.com
 social-instagram: fredbiggar
+
+
+
 #feed:
  # path: feed.xml
 
