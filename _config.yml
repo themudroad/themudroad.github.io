@@ -4,8 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 
 
-baseurl: "" # the subpath of your site, e.g. /blog
-
+#baseurl: "" # the subpath of your site, e.g. /blog
 #site-twitter: #if your site has a twitter account, enter it here
 #site-mastodon: https://mstdn.social/@fredb
 
@@ -22,8 +21,11 @@ social-email: mudroad@protonmail.com
 social-instagram: fredbiggar
 
 url: "http://themudroad.com" # the base hostname & protocol for your site, e.g. http://example.com
+
 feed:
- path: feed.xml
+
+     icon: /assets/img/favicon/favicon.ico
+     logo: /assets/img/favicon/favicon.ico
 
 # Theme from David Freeman - Flexible Jekyll
 

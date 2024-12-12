@@ -18,18 +18,18 @@ Back in Melbourne, we were lucky enough to find space with very generous friends
 
 When a friend in Madagascar needed an Art and Technology teacher to fill a gap left by a fleeing teacher, I jumped on a plane. Lots of planes actually.
 
-![Bags line up outside closed airport in Johannesburg for customs check](/assets/img/bagsJoburg.jpg)
+![Bags line up outside closed airport in Johannesburg for customs check]({{ site.url }}/assets/img/bagsJoburg.jpg)
 
 In Tana, I spent a bit of every day organising my despair into marks and lines: poems, sketches paintings.
 
-![Drawing of a boat](/assets/img/pages2.jpg)
+![Drawing of a flower]({{ site.url }}/assets/img/pages2.jpg)
 
 My goal became to fill the mostly empty house I was living in with enough pieces to stage a one person show. 
 
-![The Gallery](/assets/img/theGallery.jpg)
+![The Gallery]({{ site.url }}/assets/img/theGallery.jpg)
 
 >The  residue of a thirty-five year search for a place to call home, without ever really finding the right word for it. 
 
 You can get *The Garden* from various online dealers around the by searching for Fred Biggar The Garden. 
 
-![Back of The Garden by Fred Biggar ](/assets/img/backCoverTheGarden.png)
+![Back of The Garden by Fred Biggar ]({{ site.url }}/assets/img/backCoverTheGarden.png)
