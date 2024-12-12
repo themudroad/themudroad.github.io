@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Garden
-#date: 2024-10-22 01:00:00 +0300
+#date: 2024-12-12 01:00:00 +0300
 description: A stick figure stands beneath a giant wilting red square of red. 
 img: theGardeneBookCover.jpg 
 fig-caption: A stick figure stands beneath a giant wilting red square of red.
