@@ -9,7 +9,7 @@ tags: [theGarden, writing, Antananarivo, travel]
 sticky: 1
 
 ---
-In this way I passed the afternoons, sunk to the bottom of a flowery box with an open ceiling looking up to the sky which was a particular colour of blue that I've only ever seen in Africa. Not sure whether it's because of the green and the red of the roads or a glitch of memory. The walls of bougainvillea four or five or 6 shades of red and pink and purple and white. 
+In this way I passed the afternoons, sunk to the bottom of an open flowery box looking up to the sky which was a particular colour of blue that I've only ever seen in Africa. Whether because of the green and the red of the roads or a glitch of memory. The walls of bougainvillea four or five or six shades of red and pink and purple and white. 
 
  ![Drawing of a flower](/assets/img/pages1.jpg)
  
