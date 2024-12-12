@@ -5,8 +5,6 @@ permalink: ':title/'
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://themudroad.com # the base hostname & protocol for your site, e.g. http://example.com
-
 
 #site-twitter: #if your site has a twitter account, enter it here
 #site-mastodon: https://mstdn.social/@fredb
@@ -23,10 +21,9 @@ social-linkedin: fred-biggar-9b045a299 # add your Linkedin handle
 social-email: mudroad@protonmail.com
 social-instagram: fredbiggar
 
-
-
-#feed:
- # path: feed.xml
+url: "http://themudroad.com" # the base hostname & protocol for your site, e.g. http://example.com
+feed:
+ path: feed.xml
 
 # Theme from David Freeman - Flexible Jekyll
 
