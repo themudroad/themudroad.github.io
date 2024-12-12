@@ -1,16 +1,16 @@
 ---
 layout: post
 title: The Garden
-#date: 2024-12-12 01:00:00 +0300
+date: 2024-12-12 01:00:00 +0300
 description: A stick figure stands beneath a giant wilting red square of red. 
 img: theGardeneBookCover.jpg 
 fig-caption: A stick figure stands beneath a giant wilting red square of red.
-tags: [theGarden, writing, Antananarivo, travel] 
+tags: [theGarden, writing, Antananarivo, travel, book] 
 sticky: 1
 
 ---
 	
-xxxLooking to ride out the chaos of the pandemic in more familiar territory, my partner and I secured seats on one of the last Australian Government flights out of Mumbai, a decision that would see us separated for almost a year. We'd been hanging out in our apartment, waiting for the panic to clear, but when friends working for an Australian government department said they were gonna catch that one, we jumped too.
+Looking to ride out the chaos of the pandemic in more familiar territory, my partner and I secured seats on one of the last Australian Government flights out of Mumbai, a decision that would see us separated for almost a year. We'd been hanging out in our apartment, waiting for the panic to clear, but when friends working for an Australian government department said they were gonna catch that one, we jumped too.
 
 > Within a few months, having left the twenty-fourth floor of an apartment building in Mumbai, I passed through a half-dozen dark and empty airports to finally wash-up in a garden in Antananarivo. 
 
