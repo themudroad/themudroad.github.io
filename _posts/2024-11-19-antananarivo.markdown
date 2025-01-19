@@ -15,3 +15,6 @@ In this way I passed the afternoons, sunk to the bottom of an open flowery box l
  ![Drawing of a boat pointing at the sky]({{ site.url }}/assets/img/pages1.jpg)
  
 I am visited by emerald green geckos and tiny hunting lizards. All manner of insects. A thousand different bugs drew these lines across this page in evening when I left them out. I am a an entomologist/translator/amanuensis. 
+
+
+	
