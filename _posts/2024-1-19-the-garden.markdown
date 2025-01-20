@@ -30,6 +30,6 @@ My goal became to fill the mostly empty house I was living in with enough pieces
 
 >The  residue of a thirty-five year search for a place to call home, without ever really finding the right word for it. 
 
-You can get *The Garden* from various online dealers around the by searching for Fred Biggar The Garden. 
+You can get *The Garden* from various online dealers around the by searching for "Fred Biggar The Garden"... <a href="https://www.amazon.com/Garden-Fred-M-Biggar/dp/1763681408" target="_blank">Get the Book</a> 
 
 ![Back of The Garden by Fred Biggar ]({{ site.url }}/assets/img/backCoverTheGarden.png)

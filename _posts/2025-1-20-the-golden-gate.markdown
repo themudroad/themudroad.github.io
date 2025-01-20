@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Dolmens 
-date: 2025-1-18 01:00:00 +0300
+date: 2025-1-20 01:00:00 +0300
 description: A man stomps through a ring of headstones in black and white. 
 img: goldenGateNationalPark.png 
 fig-caption: A man stomps through a ring of headstones in black and white. 
