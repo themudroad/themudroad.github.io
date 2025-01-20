@@ -11,11 +11,10 @@ tags: [writing, travel, South Africa, archive]
 	
 Six thirty in the morning in a canvas chair at the Golden Gate National Park campsite. The day is fixing to be hot again – wind makes a rushing sound in the leaves of the big tree over my tent. Willows line the dried-out gully that would be a stream or a creek if the water was running, crooked charcoal lines among the backlit green.
 
-> The Golden Gate 
 
 Up early, the ground hard against my ribs, my hip. We are deflated, my air-mattress and I. Listened for a while on my back to the activity in camp. Christmas coming and lots of folks going. Trying to get on the road early or just enamoured of a day out in the wild - who can say?
  
-Four hours back to the suburbs and then what?
+> Four hours back to the suburbs and then what?
  
 I’m not suited to being alone. It takes training. I’m looking for some inspiration, a spark. My sentences are like one-line book reports. No music. No wonder. Even my handwriting is falling apart.
  
