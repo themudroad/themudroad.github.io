@@ -9,8 +9,8 @@ tags: [writing, Australia, archive]
 
 ---
 
- ![ An old fashioned sign on ceramic glazed tiles in a train station bathroom. Close-up.]({{ site.url }}/assets/img/adjustDress1.png)	
 # Commutation
+ 
 *“… for a man to measure his happiness, he must go to the closet & lay out his ties  end to end. <br> 
 This is the exact distance he stands from happiness” –Michael Leunig*
 
